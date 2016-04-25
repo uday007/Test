@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 //Uday
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        print("Uday")
+        print("ewrtewte4rty")
         // Override point for customization after application launch.
         return true
     }
